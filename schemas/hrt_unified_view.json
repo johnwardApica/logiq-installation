@@ -17,9 +17,9 @@
             "order": 1,
             "description": "Uptime (Hours)",
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "value",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -40,9 +40,9 @@
             "order": 2,
             "description": "Uptime (Hours)",
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "value",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -61,9 +61,9 @@
             "label": "",
             "order": 3,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -90,9 +90,9 @@
             "label": "Percent Processor Time",
             "order": 1,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -111,9 +111,9 @@
             "label": "Percent Idle Time",
             "order": 2,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -132,9 +132,9 @@
             "label": "Percent User Time",
             "order": 3,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -153,9 +153,9 @@
             "label": "Percent Privileged Time",
             "order": 4,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -174,9 +174,9 @@
             "label": "Percent Interrupt Time",
             "order": 5,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -195,9 +195,9 @@
             "label": "Percent DPC Time",
             "order": 6,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -224,9 +224,9 @@
             "label": "Available Memory",
             "order": 1,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -245,9 +245,9 @@
             "label": "Committed Memory",
             "order": 2,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -266,9 +266,9 @@
             "label": "Cache Faults Per Sec",
             "order": 3,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -287,9 +287,9 @@
             "label": "Demand Zero Faults Per Sec",
             "order": 4,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -308,9 +308,9 @@
             "label": "Pages Per Sec",
             "order": 5,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -329,9 +329,9 @@
             "label": "Page Faults Per Sec",
             "order": 6,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -357,9 +357,9 @@
             "label": "Logical Disk Free Space (D:)",
             "order": 1,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -378,9 +378,9 @@
             "label": "Logical Disk % Read Time",
             "order": 2,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -399,9 +399,9 @@
             "label": "Logical Disk % Write Time",
             "order": 3,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -420,9 +420,9 @@
             "label": "Physical Disk % Read",
             "order": 4,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -441,9 +441,9 @@
             "label": "Physical Disk % Write",
             "order": 5,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -462,9 +462,9 @@
             "label": "Logical Disk Free Space (D:)",
             "order": 6,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -491,9 +491,9 @@
             "label": "Packets Outgoing Errors",
             "order": 1,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -512,9 +512,9 @@
             "label": "Packets Incoming Errors",
             "order": 2,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -533,9 +533,9 @@
             "label": "Packets Outbound Discarded",
             "order": 3,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -554,9 +554,9 @@
             "label": "Packets Incoming Discarded",
             "order": 4,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -575,9 +575,9 @@
             "label": "Packets Sent Per Sec",
             "order": 5,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
@@ -596,9 +596,9 @@
             "label": "Packets Received Per Sec",
             "order": 6,
             "plot": {
-              "xLabel": "Timestamp",
+              "xLabel": "timestamp",
               "yLabel": "",
-              "x": "Timestamp",
+              "x": "timestamp",
               "y": [
                 "value"
               ],
